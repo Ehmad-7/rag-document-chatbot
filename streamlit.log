@@ -1,0 +1,28 @@
+nohup: ignoring input
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://10.100.28.221:8502
+
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Token indices sequence length is longer than the specified maximum sequence length for this model (567 > 512). Running this sequence through the model will result in indexing errors
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Token indices sequence length is longer than the specified maximum sequence length for this model (678 > 512). Running this sequence through the model will result in indexing errors
+Device set to use cpu
+Token indices sequence length is longer than the specified maximum sequence length for this model (678 > 512). Running this sequence through the model will result in indexing errors
+Device set to use cpu
+Device set to use cpu
+Device set to use cpu
+Token indices sequence length is longer than the specified maximum sequence length for this model (678 > 512). Running this sequence through the model will result in indexing errors
+  Stopping...
