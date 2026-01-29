@@ -94,7 +94,7 @@ streamlit run app.py
 
 http://localhost:8501
 
-## Tech Stack
+## Limitations
 
 - This project is intended for learning and experimentation:
 - No persistent vector database (indexes rebuilt on each run)
